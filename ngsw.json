@@ -1,0 +1,132 @@
+{
+  "configVersion": 1,
+  "timestamp": 1691077254586,
+  "index": "C:/Program Files/Git/ng16/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "C:/Program Files/Git/ng16/357.51b564a418f3af84.js",
+        "C:/Program Files/Git/ng16/374.807ee9e48a0672e4.js",
+        "C:/Program Files/Git/ng16/798.dc1328ac8c0bb99a.js",
+        "C:/Program Files/Git/ng16/favicon.ico",
+        "C:/Program Files/Git/ng16/index.html",
+        "C:/Program Files/Git/ng16/main.3eeaa7c3685a4f81.js",
+        "C:/Program Files/Git/ng16/manifest.webmanifest",
+        "C:/Program Files/Git/ng16/polyfills.4c0b603a6b0aaf88.js",
+        "C:/Program Files/Git/ng16/runtime.f46874d6d7b152ae.js",
+        "C:/Program Files/Git/ng16/styles.7f053c2dc1d07297.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "C:/Program Files/Git/ng16/assets/icons/icon-128x128.png",
+        "C:/Program Files/Git/ng16/assets/icons/icon-144x144.png",
+        "C:/Program Files/Git/ng16/assets/icons/icon-152x152.png",
+        "C:/Program Files/Git/ng16/assets/icons/icon-192x192.png",
+        "C:/Program Files/Git/ng16/assets/icons/icon-384x384.png",
+        "C:/Program Files/Git/ng16/assets/icons/icon-512x512.png",
+        "C:/Program Files/Git/ng16/assets/icons/icon-72x72.png",
+        "C:/Program Files/Git/ng16/assets/icons/icon-96x96.png",
+        "C:/Program Files/Git/ng16/assets/images/404.png",
+        "C:/Program Files/Git/ng16/assets/images/as.jpg",
+        "C:/Program Files/Git/ng16/assets/images/cv.png",
+        "C:/Program Files/Git/ng16/assets/images/rotating_card_profile.png",
+        "C:/Program Files/Git/ng16/assets/images/rotating_card_profile2.png",
+        "C:/Program Files/Git/ng16/assets/images/rotating_card_profile3.png",
+        "C:/Program Files/Git/ng16/assets/images/rotating_card_thumb.jpg",
+        "C:/Program Files/Git/ng16/assets/images/rotating_card_thumb.png",
+        "C:/Program Files/Git/ng16/assets/images/rotating_card_thumb2.png",
+        "C:/Program Files/Git/ng16/assets/images/rotating_card_thumb3.png",
+        "C:/Program Files/Git/ng16/assets/images/tim_logo.png",
+        "C:/Program Files/Git/ng16/fontawesome-webfont.8a7cb27d142e3e19.ttf",
+        "C:/Program Files/Git/ng16/fontawesome-webfont.cf011583fb81df9f.woff",
+        "C:/Program Files/Git/ng16/fontawesome-webfont.da909aa098b0ee2d.svg",
+        "C:/Program Files/Git/ng16/fontawesome-webfont.e9955780856cf8aa.woff2"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [
+    {
+      "name": "API",
+      "patterns": [
+        "https:\\/\\/apilb\\.tridevs\\.net\\/api\\/.*"
+      ],
+      "strategy": "performance",
+      "maxSize": 50,
+      "maxAge": 432000000,
+      "timeoutMs": 3000,
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "version": 1
+    }
+  ],
+  "hashTable": {
+    "C:/Program Files/Git/ng16/357.51b564a418f3af84.js": "8efc022da7ba5b1fc1dcba386782083e3e0cbae0",
+    "C:/Program Files/Git/ng16/374.807ee9e48a0672e4.js": "c3093ea8fee7cbda5c09f51a1ac3ddf0d6fab004",
+    "C:/Program Files/Git/ng16/798.dc1328ac8c0bb99a.js": "0181ccf84101e2563e16e81448a53899bb850035",
+    "C:/Program Files/Git/ng16/assets/icons/icon-128x128.png": "23dedf3e50e7c60340570f643de5de822ee86466",
+    "C:/Program Files/Git/ng16/assets/icons/icon-144x144.png": "5a9bf336fdab6ef974bac45354e3563f19d892dc",
+    "C:/Program Files/Git/ng16/assets/icons/icon-152x152.png": "9d7aec71b4a6dbb8a7409bfeabf0b377b764ac89",
+    "C:/Program Files/Git/ng16/assets/icons/icon-192x192.png": "f56e5fac2bb47a64cf45ce207fe599f42a24d8c2",
+    "C:/Program Files/Git/ng16/assets/icons/icon-384x384.png": "b131364e10b89e0dd2158aa9f525ea4b007a52eb",
+    "C:/Program Files/Git/ng16/assets/icons/icon-512x512.png": "9195959f08e713d22ea851693de8c42090d897e8",
+    "C:/Program Files/Git/ng16/assets/icons/icon-72x72.png": "c43d25726aa3fdfe491d02996fa2cafc95ece9e6",
+    "C:/Program Files/Git/ng16/assets/icons/icon-96x96.png": "2bf239491f1516c11c0710e404a7aacf74462766",
+    "C:/Program Files/Git/ng16/assets/images/404.png": "27ca087c5fb7ad199d04435de0be9f068989dc3f",
+    "C:/Program Files/Git/ng16/assets/images/as.jpg": "fd4227c398042b73c8ca84df755824fbb1a3baff",
+    "C:/Program Files/Git/ng16/assets/images/cv.png": "417d3bde1e8f172d82cb7f3d6feb4b2d1ecbed6a",
+    "C:/Program Files/Git/ng16/assets/images/rotating_card_profile.png": "b30414d614f9b735a7232caebb69867ebfc5503e",
+    "C:/Program Files/Git/ng16/assets/images/rotating_card_profile2.png": "2408851706a98bac6a73ea7c8509bfc41f6ec90d",
+    "C:/Program Files/Git/ng16/assets/images/rotating_card_profile3.png": "4c19034d68811fa2d84289bc75f7b7fca39ae39c",
+    "C:/Program Files/Git/ng16/assets/images/rotating_card_thumb.jpg": "7d492d6134a7d0cf3de07f5dfad49c0d3fcd2886",
+    "C:/Program Files/Git/ng16/assets/images/rotating_card_thumb.png": "853764dcf8a8955af43b6b2e3d22155f34e7d1e5",
+    "C:/Program Files/Git/ng16/assets/images/rotating_card_thumb2.png": "cec9f69aa3e5c38cee1444e9acf0c9ee7373235b",
+    "C:/Program Files/Git/ng16/assets/images/rotating_card_thumb3.png": "74d51b80c1f3cf44b20c6ef610b31b92460d9df9",
+    "C:/Program Files/Git/ng16/assets/images/tim_logo.png": "badc53cc7844979e5a9d65acebfc9b235f4f4dd9",
+    "C:/Program Files/Git/ng16/favicon.ico": "04c278dba3e54393c4c980f7fd4dcd43796ef813",
+    "C:/Program Files/Git/ng16/fontawesome-webfont.8a7cb27d142e3e19.ttf": "13b1eab65a983c7a73bc7997c479d66943f7c6cb",
+    "C:/Program Files/Git/ng16/fontawesome-webfont.cf011583fb81df9f.woff": "28b782240b3e76db824e12c02754a9731a167527",
+    "C:/Program Files/Git/ng16/fontawesome-webfont.da909aa098b0ee2d.svg": "98a8aa5cf7d62c2eff5f07ede8d844b874ef06ed",
+    "C:/Program Files/Git/ng16/fontawesome-webfont.e9955780856cf8aa.woff2": "d6f48cba7d076fb6f2fd6ba993a75b9dc1ecbf0c",
+    "C:/Program Files/Git/ng16/index.html": "bdf008b95987f60eb5abfd3831b1baa9e70e6bda",
+    "C:/Program Files/Git/ng16/main.3eeaa7c3685a4f81.js": "782d5a6a250ccac44abcafe52ae62641331839d6",
+    "C:/Program Files/Git/ng16/manifest.webmanifest": "f734641b9409e1612294d50247ab4f1443f3e18a",
+    "C:/Program Files/Git/ng16/polyfills.4c0b603a6b0aaf88.js": "814c3c6ac3de9700255cdaa410897ce1d7e22f61",
+    "C:/Program Files/Git/ng16/runtime.f46874d6d7b152ae.js": "727b2affb75368db87258fbf219acc4b1e232cbe",
+    "C:/Program Files/Git/ng16/styles.7f053c2dc1d07297.css": "1e33f22ef731151af9f8adbb827efb4bf9423d10"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
