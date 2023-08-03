@@ -1,0 +1,9 @@
+<i
+  *ngFor="let i of stars"
+  class="fa"
+  (click)="rating  = i"
+  [ngClass]="{
+    'fa-star': rating >= i,
+    'fa-star-o': rating < i
+  }"
+  aria-hidden="true"></i>
