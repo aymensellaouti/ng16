@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1691077254586,
+  "timestamp": 1691077473309,
   "index": "C:/Program Files/Git/ng16/index.html",
   "assetGroups": [
     {
@@ -16,7 +16,7 @@
         "C:/Program Files/Git/ng16/798.dc1328ac8c0bb99a.js",
         "C:/Program Files/Git/ng16/favicon.ico",
         "C:/Program Files/Git/ng16/index.html",
-        "C:/Program Files/Git/ng16/main.3eeaa7c3685a4f81.js",
+        "C:/Program Files/Git/ng16/main.5c8535d00cde8293.js",
         "C:/Program Files/Git/ng16/manifest.webmanifest",
         "C:/Program Files/Git/ng16/polyfills.4c0b603a6b0aaf88.js",
         "C:/Program Files/Git/ng16/runtime.f46874d6d7b152ae.js",
@@ -103,8 +103,8 @@
     "C:/Program Files/Git/ng16/fontawesome-webfont.cf011583fb81df9f.woff": "28b782240b3e76db824e12c02754a9731a167527",
     "C:/Program Files/Git/ng16/fontawesome-webfont.da909aa098b0ee2d.svg": "98a8aa5cf7d62c2eff5f07ede8d844b874ef06ed",
     "C:/Program Files/Git/ng16/fontawesome-webfont.e9955780856cf8aa.woff2": "d6f48cba7d076fb6f2fd6ba993a75b9dc1ecbf0c",
-    "C:/Program Files/Git/ng16/index.html": "bdf008b95987f60eb5abfd3831b1baa9e70e6bda",
-    "C:/Program Files/Git/ng16/main.3eeaa7c3685a4f81.js": "782d5a6a250ccac44abcafe52ae62641331839d6",
+    "C:/Program Files/Git/ng16/index.html": "b4f8ff9b4edb5a497d343fa5e58934fefd9eb67f",
+    "C:/Program Files/Git/ng16/main.5c8535d00cde8293.js": "7b93aaf53d28ba274025305ffdd6928fca93b942",
     "C:/Program Files/Git/ng16/manifest.webmanifest": "f734641b9409e1612294d50247ab4f1443f3e18a",
     "C:/Program Files/Git/ng16/polyfills.4c0b603a6b0aaf88.js": "814c3c6ac3de9700255cdaa410897ce1d7e22f61",
     "C:/Program Files/Git/ng16/runtime.f46874d6d7b152ae.js": "727b2affb75368db87258fbf219acc4b1e232cbe",
